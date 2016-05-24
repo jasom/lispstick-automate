@@ -10,6 +10,7 @@ Requirements
 * wine
 * sh
 * zip/unzip
+* GNU version of readlink (requires -f extension)
 
 I have only tested it so far on Linux, but it should work anywhere the above
 will run.  Making it work on windows without wine is an exercise left up to the reader.
