@@ -11,8 +11,8 @@ Requirements
 * sh
 * zip/unzip
 
-I have only tested it so far on windows, but it should work anywhere the above
-will run
+I have only tested it so far on Linux, but it should work anywhere the above
+will run.  Making it work on windows without wine is an exercise left up to the reader.
 
 Instructions
 ------------
